@@ -1,4 +1,5 @@
 ## **Introduction GitHub**
-### Une fonction ``` ne retourne pas obligatoirement des données mais peux également servir à réduire le code```
+### Une fonction
+``` ne retourne pas obligatoirement des données```
 # Voici le lien de Wikipédia [Wikipédia](https://fr.wikipedia.org/)
 ![Image d'une poule](img/poule.jpg)
