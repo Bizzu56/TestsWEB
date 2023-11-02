@@ -1,4 +1,4 @@
 ## **Introduction GitHub**
 ### Une fonction ``` ne retourne pas obligatoirement des données mais peux également servir à réduire le code```
 # Voici le lien de Wikipédia [Wikipédia](https://fr.wikipedia.org/)
-![Image d'une poule](C:\Users\kercode23\Documents\TravauxWeb\FICHIERMD\Travail02NOV\img)
+![Image d'une poule](img/poule)
